@@ -1,4 +1,3 @@
-
 """
 Creating Python Programs: Module 3 & Part 1
 
